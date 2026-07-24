@@ -1,0 +1,20 @@
+name: Trigger blog deployment
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  notify-template:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Request a deployment for this content revision
+        env:
+          GH_TOKEN: ${{ secrets.TEMPLATE_DISPATCH_TOKEN }}
+        run: |
+          gh api --method POST repos/Feng6611/blog-tem/dispatches \
+            -f event_type=content-updated \
+            -f client_payload[content_sha]="$GITHUB_SHA"
