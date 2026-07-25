@@ -19,4 +19,6 @@ site.json
 
 Pushing to `main` runs [`.github/workflows/content-updated.yml`](.github/workflows/content-updated.yml). It sends the exact commit SHA to `Feng6611/blog-tem`; that repository builds the site and deploys it to Cloudflare Pages.
 
+The cross-repository deployment pipeline was verified on 2026-07-25.
+
 Set `TEMPLATE_DISPATCH_TOKEN` as a repository secret. It must be a fine-grained GitHub token allowed to send repository dispatch events to `Feng6611/blog-tem`.
