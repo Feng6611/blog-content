@@ -5,7 +5,31 @@
     "en": "Leonardo"
   },
   "description": {
-    "zh": "给我的猫起了名叫 Vincent，那我叫列奥纳多吧",
+    "zh": "给猫起名 Vincent，给自己选了“列奥纳多”。这里写阅读、历史、生活、写作，以及做自己的软件。",
     "en": "I named my cat Vincent, so I guess I'm Leonardo."
+  },
+  "author": {
+    "name": "chenfeng",
+    "url": "/about/",
+    "sameAs": [
+      "https://github.com/Feng6611",
+      "https://flomo.kkuk.dev"
+    ]
+  },
+  "imageAlt": {
+    "vincent.png": "梵高的三幅自画像",
+    "2024books1.png": "2024 年读过的人物传记",
+    "2024books2.png": "2024 年读过的历史书",
+    "duku01.jpg": "读库杂志",
+    "F7.jpg": "得到 F7 墨水屏阅读器",
+    "openflomoUI.png": "公开 flomo 笔记的页面",
+    "flomoHtml.png": "flomo 导出的 HTML 笔记页面",
+    "OpenflomoDevtool.png": "openflomo 静态页面的开发者工具加载记录",
+    "flomo2024.png": "2024 年的 flomo 笔记记录",
+    "CodingPage.png": "开发项目的页面",
+    "penflow01.png": "Penflow 页面",
+    "link01.jpg": "塞尔达传说游戏画面",
+    "link02.jpg": "塞尔达传说游戏画面",
+    "link03.jpg": "塞尔达传说游戏画面"
   }
 }

@@ -1,22 +1,14 @@
 ---
 slug: "aboutme"
-date: '2025-01-28'
+date: "2025-01-28"
+language: zh
+title: "关于我"
+description: "chenfeng 的个人博客：阅读、历史、生活、写作，以及做自己的软件。"
 tags: []
 ---
 
-还没有写About哦 😆
+我是 chenfeng，在 GitHub 上使用用户名 Feng6611。这是我的个人博客“列奥纳多”。我给猫起名 Vincent，于是给自己选了这个博客名。
 
+这里记录阅读、历史、日常生活、写作和做自己产品的长文和随笔。我也做小型 Mac 工具和 Obsidian 插件，项目和代码在 [GitHub](https://github.com/Feng6611)。
 
-#### Blog更新记录
-- **2025-04-24**：被Gemini2.5狠狠批判了一波之前Claude3.5写的代码，修改了一大堆
-  - SSR 改为 SSG，启用缓存
-  - 使用 MDX-Remote 和 Remark
-  - 图片渲染用 Next/Image
-  - 使用Claude优化UI（实际上还是我自己调的首页最舒服）
-  - 修复内链跳转错误
-- **2025-02-25**:增加 Myflomo 跳转
-- **2025-01-28**
-  - 优化换行渲染：软换行、硬换行统一渲染为段落 `<p>`
-  - 空行处理：多个空行合并为单个空行，渲染为空段落 `<p>`
-  - 段落样式：`<p>` 标签的 end-margin 设置为 16px
-  - 排版优化：中英文之间自动添加空格，同时保护特殊样式（如URL、专有名词等）
+更零散的记录可以在[公开笔记](https://flomo.kkuk.dev)里读到。
