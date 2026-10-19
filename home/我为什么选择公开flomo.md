@@ -1,6 +1,6 @@
 ---
 date: '2025-02-22'
-title: "我为什么选择公开我的Flomo笔记：打破表达障碍，寻求真实连接 | Why I Chose to Make My Flomo Notes Public: Breaking Expression Barriers and Seeking Authentic Connections"
+title: "我为什么选择公开我的Flomo笔记：打破表达障碍，寻求真实连接"
 slug: "why-public-flomo"
 description: >-
   作者阐述了公开个人Flomo笔记的初衷。文章从个人不擅长表达、常用"社恐"为借口谈起，反思了社交互动中的困境，并介绍了Flomo作为其核心笔记工具的原因。最终，作者希望通过公开这些真实的所思所想，打破表达障碍，以此作为与他人建立真实连接的窗口。
