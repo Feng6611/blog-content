@@ -25,6 +25,9 @@ MacOS有自己的一套设计逻辑，有时候你说不清楚他是讲究还是
 所以 cmd reopen 的方案很简单：监听系统的前台应用切换事件，一旦发现app已经到前台但没有可见窗口，就发送一个重新打开（reopen）的指令，把窗口唤醒。
 市面上已有的解决方案（以[AltTab](https://alt-tab-macos.netlify.app/)为代表），往往有着复杂的窗口管理行为——比如窗口预览、重排，甚至直接重绘并覆盖原生的`cmd tab`界面，而且通常需要辅助功能甚至屏幕录制权限。
 cmd reopen只解决这样一个问题，不改变系统UI，也不做复杂逻辑，只是补充了一个窗口激活行为，对我的日常使用来说，这已经完全足够了。
+
+![[command-reopen-before-after.gif|alt=左：未安装时，cmd tab 切回已关闭窗口的 App，窗口没有出现；右：安装 Command Reopen 后，窗口随即出现]]
+
 ## 零权限带来的局限性
 因为坚持不申请系统敏感权限，目前的方案有两个客观限制：
 ### 1. 缺乏窗口级别的控制
@@ -37,7 +40,7 @@ cmd reopen只解决这样一个问题，不改变系统UI，也不做复杂逻�
 ## 价格&展望
 - [App Store](https://apps.apple.com/app/command-reopen/id6757333924?pt=128417926&ct=kkuk-blog&mt=8)
 - [Website](https://commandreopen.com/zh/)
-- Yearly $5.99，Lifetime $9.99
+- Lifetime $9.99
 - [Github开源地址](https://github.com/Feng6611/mac-command-reopen)
 
 [Release](https://github.com/Feng6611/mac-command-reopen/releases)提供了direct分发的稍旧版本，可以免费下载。或者可以clone后自己编译，这里有一个[实验性的含AX的版本](https://github.com/Feng6611/mac-command-reopen/tree/codex/direct-ax-advanced-mode)，可以处理上方讲的局限性问题。
