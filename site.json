@@ -1,12 +1,12 @@
 {
   "siteUrl": "https://kkuk.dev",
   "title": {
-    "zh": "列奥纳多",
-    "en": "Leonardo"
+    "zh": "chenfeng",
+    "en": "chenfeng"
   },
   "description": {
-    "zh": "给猫起名 Vincent，给自己选了“列奥纳多”。这里写阅读、历史、生活、写作，以及做自己的软件。",
-    "en": "I named my cat Vincent, so I guess I'm Leonardo."
+    "zh": "chenfeng 的个人博客：读历史，写长文，用 AI 做自己的小软件，也记录生活里想明白的事。",
+    "en": "chenfeng's blog: reading history, writing long-form, vibe-coding my own small apps, and notes on everyday life."
   },
   "tagline": {
     "zh": "阅读、历史、写作，以及做自己的软件",
@@ -14,6 +14,7 @@
   },
   "alternateNames": [
     "kkuk.dev",
+    "列奥纳多",
     "Leonardo"
   ],
   "topics": [
