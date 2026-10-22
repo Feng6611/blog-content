@@ -12,5 +12,8 @@
   "language.en": "EN",
   "language.zh": "中文",
   "language.switchTo.en": "切换到英文",
-  "language.switchTo.zh": "切换到中文"
-} 
+  "language.switchTo.zh": "切换到中文",
+  "topics.title": "专题",
+  "topics.description": "按专题浏览全部文章和日常：写作、做软件、阅读、历史、生活，以及每年一篇的年度回顾。",
+  "topics.all": "全部专题"
+}

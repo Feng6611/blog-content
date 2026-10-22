@@ -3,8 +3,8 @@ slug: command-reopen
 language: en
 translationOf: home/【Command Reopen】我做了一个修复cmd tab体验的Mac App.md
 date: '2026-10-18'
-title: "Command Reopen: I Built a Mac App to Fix Cmd+Tab"
-description: "After Cmd+W or Cmd+M, Cmd+Tab won't bring the window back. I vibe-coded Command Reopen — a zero-permission Mac app that fills that gap."
+title: "Command Reopen: Make Cmd+Tab Bring Back Closed and Minimized Windows on Mac"
+description: "On macOS, Cmd+Tab won't reopen a window you closed with Cmd+W or minimized with Cmd+M. Command Reopen is a zero-permission Mac app that brings it back."
 keywords: "Command Reopen, Cmd+Tab, macOS, minimize, window restore, zero permission, vibe coding, indie dev, AltTab"
 ---
 

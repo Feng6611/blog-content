@@ -13,5 +13,8 @@
   "language.zh": "ZH",
   "language.switchTo.en": "Switch to English",
   "language.switchTo.zh": "Switch to Chinese",
-  "post.backToHome": "← Back to home"
-} 
+  "post.backToHome": "← Back to home",
+  "topics.title": "Topics",
+  "topics.description": "Browse every article and daily note by topic: writing, building software, reading, history, life, and the yearly reviews.",
+  "topics.all": "All topics"
+}
