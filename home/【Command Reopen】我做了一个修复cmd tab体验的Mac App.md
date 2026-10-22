@@ -4,6 +4,7 @@ title: "【Command Reopen】我做了一个修复cmd tab体验的Mac App"
 slug: "command-reopen"
 description: "在 Mac 上用 Cmd+W 关掉或 Cmd+M 最小化窗口后，Cmd+Tab 切回去窗口不会出来。我 vibe 了一个零权限的小工具 Command Reopen 来补上这一步，这篇写它的原理、局限和价格。"
 keywords: "Command Reopen, Cmd+Tab, macOS, 最小化窗口, 窗口恢复, 零权限, Vibe Coding, 独立开发, AltTab"
+topics: [building]
 ---
 ## 背景
 Mac是一个切换成本很高、但一旦习惯就离不开的设备。2020年大学毕业后我第一次使用Mac，我需要专程去学习《白皮书》、看了Youtube的课程，前人手把手帮我设置三指拖放和四指切屏，才一步步上手。

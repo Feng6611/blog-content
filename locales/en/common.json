@@ -5,13 +5,16 @@
   "navbar.memos": "Memos",
   "navbar.openMenu": "Open main menu",
   "navbar.closeMenu": "Close main menu",
-  "metadata.title": "Leonardo",
-  "metadata.description": "I named my cat Vincent, so I guess I'm Leonardo.",
-  "home.title": "Leonardo",
-  "home.description": "I named my cat Vincent, so I guess I'm Leonardo",
+  "metadata.title": "chenfeng",
+  "metadata.description": "chenfeng's blog on reading, history, writing, and building my own software.",
+  "home.title": "chenfeng",
+  "home.description": "chenfeng's blog on reading, history, writing, and building my own software.",
   "language.en": "EN",
   "language.zh": "ZH",
   "language.switchTo.en": "Switch to English",
   "language.switchTo.zh": "Switch to Chinese",
-  "post.backToHome": "← Back to home"
-} 
+  "post.backToHome": "← Back to home",
+  "topics.title": "Topics",
+  "topics.description": "Browse every article and daily note by topic: writing, building software, reading, history, life, and the yearly reviews.",
+  "topics.all": "All topics"
+}

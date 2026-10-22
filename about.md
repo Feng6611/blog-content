@@ -7,7 +7,7 @@ description: "chenfeng 的个人博客：阅读、历史、生活、写作，以
 tags: []
 ---
 
-我是 chenfeng，在 GitHub 上使用用户名 Feng6611。这是我的个人博客“列奥纳多”。我给猫起名 Vincent，于是给自己选了这个博客名。
+我是 chenfeng，在 GitHub 上使用用户名 Feng6611，这里是我的个人博客 kkuk.dev。它以前叫“列奥纳多”——因为我给猫起名 Vincent。
 
 这里记录阅读、历史、日常生活、写作和做自己产品的长文和随笔。我也做小型 Mac 工具和 Obsidian 插件，项目和代码在 [GitHub](https://github.com/Feng6611)。
 

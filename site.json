@@ -1,13 +1,90 @@
 {
   "siteUrl": "https://kkuk.dev",
   "title": {
-    "zh": "列奥纳多",
-    "en": "Leonardo"
+    "zh": "chenfeng",
+    "en": "chenfeng"
   },
   "description": {
-    "zh": "给猫起名 Vincent，给自己选了“列奥纳多”。这里写阅读、历史、生活、写作，以及做自己的软件。",
-    "en": "I named my cat Vincent, so I guess I'm Leonardo."
+    "zh": "chenfeng 的个人博客：阅读、历史、写作，以及做自己的软件。",
+    "en": "chenfeng's blog on reading, history, writing, and building my own software."
   },
+  "tagline": {
+    "zh": "阅读、历史、写作，以及做自己的软件",
+    "en": "Reading, history, writing, and building my own software"
+  },
+  "alternateNames": [
+    "kkuk.dev",
+    "列奥纳多",
+    "Leonardo"
+  ],
+  "topics": [
+    {
+      "id": "writing",
+      "name": {
+        "zh": "写作与笔记",
+        "en": "Writing & Notes"
+      },
+      "description": {
+        "zh": "为什么写不出来、怎么开始写长文，以及笔记、flomo 和读书笔记这些把想法留下来的办法。",
+        "en": "Why writing is hard, how to start long-form pieces, and the notes, flomo and reading notes that keep ideas around."
+      }
+    },
+    {
+      "id": "building",
+      "name": {
+        "zh": "做软件",
+        "en": "Building Software"
+      },
+      "description": {
+        "zh": "作为产品经理，用 AI 写代码、做自己的小工具：Command Reopen、静态站点、openflomo，以及“只解决自己的问题”。",
+        "en": "Vibe-coding my own tools as a product manager: Command Reopen, static sites, openflomo, and solving only your own problems."
+      }
+    },
+    {
+      "id": "reading",
+      "name": {
+        "zh": "阅读",
+        "en": "Reading"
+      },
+      "description": {
+        "zh": "读了什么、怎么读：书单、读书评分，以及对“阅读是一种偷懒”的反思。",
+        "en": "What I read and how: book lists, ratings, and second thoughts on reading as a form of laziness."
+      }
+    },
+    {
+      "id": "history",
+      "name": {
+        "zh": "历史",
+        "en": "History"
+      },
+      "description": {
+        "zh": "用笨办法读历史：顾维钧、中晚唐到宋的藩镇，以及编年体读法。",
+        "en": "Reading history the slow way: Wellington Koo, regional warlords from late Tang to Song, and chronological reading."
+      }
+    },
+    {
+      "id": "life",
+      "name": {
+        "zh": "生活",
+        "en": "Life"
+      },
+      "description": {
+        "zh": "关于意义、工作和年龄的焦虑，以及怎样把日子过得更有实感。",
+        "en": "On meaning, work and age anxiety, and how to make everyday life feel more real."
+      }
+    },
+    {
+      "id": "year-review",
+      "name": {
+        "zh": "年度回顾",
+        "en": "Year in Review"
+      },
+      "description": {
+        "zh": "每年一篇的个人总结：读过的书、玩过的游戏、家里多了一只猫，以及这一年想明白的事。",
+        "en": "One personal review a year: books, games, a new cat, and what the year taught me."
+      }
+    }
+  ],
   "author": {
     "name": "chenfeng",
     "url": "/about/",
