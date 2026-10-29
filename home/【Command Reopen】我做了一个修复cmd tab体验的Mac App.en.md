@@ -35,6 +35,8 @@ Existing solutions (notably [AltTab](https://alt-tab-macos.netlify.app/)) often 
 
 Command Reopen only fixes this one thing. It doesn't change system UI or run complex logic — it just adds a window-activation step. For daily use, that's enough.
 
+![[command-reopen-before-after.gif|alt=Left: Cmd+Tab returns to an app without opening its closed window. Right: With Command Reopen installed, the window appears.]]
+
 ## Limitations of Going Zero-Permission
 
 Because it refuses sensitive system permissions, the current approach has two hard limits:
